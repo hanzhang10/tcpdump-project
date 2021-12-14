@@ -6,3 +6,4 @@
 ## Daily Log
 
 * December 14, 2021
+  * Han Zhang - Worked on Google Slides for tcpdump
