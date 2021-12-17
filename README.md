@@ -15,3 +15,5 @@
   * Brainstormed on what our take home assignment would be
   * Talked with Wireshark group and decided that we would cover more of the fundamentals.
   * Continued working on slides.
+* December 17, 2021
+  * Continued working on slides.
