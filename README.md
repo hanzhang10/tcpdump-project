@@ -17,3 +17,5 @@
   * Continued working on slides.
 * December 17, 2021
   * Continued working on slides.
+* December 20, 2021
+  * Finished up the slides.
