@@ -18,4 +18,6 @@
 * December 17, 2021
   * Continued working on slides.
 * December 20, 2021
-  * Finished up the slides.
+  * Continued working on slides.
+* December 21, 2021
+  * Finished up slides and continued to talk about take home assignment
