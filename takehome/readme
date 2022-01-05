@@ -1,11 +1,13 @@
 INSTRUCTIONS FOR TAKE HOME ASSIGNMENT
 
 Part 1: 
-Use tcpdump to capture HTTP web traffic. To test this, after running tcpdump with the appropriate flags, you can run curl -I google.com in a separate window and should see an output in your tcpdump window.
+Use tcpdump to capture HTTP web traffic. To test this, after running tcpdump with the appropriate flags, you 
+can run curl -I google.com in a separate window and should see an output in your tcpdump window.
 
 Part 2:
 In this directory we have the flag.pcapng from the tryhackme room we did a while back. 
-Instead of using wireshark or an online tool, we already know that it is hiding flag.txt in the http traffic. Use the -r flag for tcpdump to read the contents of flag.pcapng and apply a filter to show only http traffic to find flag.txt
+Instead of using wireshark or an online tool, we already know that it is hiding flag.txt in the http traffic. 
+Use the -r flag for tcpdump to read the contents of flag.pcapng and apply a filter to show only http traffic to find flag.txt
 
 When done submit answers here:
 https://forms.gle/KqEf2bDCREDetkex9
